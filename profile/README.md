@@ -1,4 +1,4 @@
-![rain-topaz-high fidelity v2-6x](https://github.com/rainlanguage/.github/assets/1190022/4f36030c-be09-4305-939c-b54e823de069)
+![rainlang- banner](https://github.com/rainlanguage/.github/assets/1190022/b3f3572a-b3a3-4601-9334-4a801922fa57)
 
 # 💧 rainlang 💧
 
