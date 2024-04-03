@@ -1,4 +1,4 @@
-![rainlang- banner](https://github.com/rainlanguage/.github/assets/1190022/b3f3572a-b3a3-4601-9334-4a801922fa57)
+![Rainlang banner](https://github.com/rainlanguage/.github/assets/1190022/fb651614-33a7-4d02-9715-5085f27b43a5)
 
 # 💧 Rainlang 💧
 
