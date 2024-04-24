@@ -2,7 +2,7 @@
 
 # 💧 Rainlang 💧
 
-Rainlang is an onchain smart contract language for any EVM, designed to be easier to be much easier to read and write.
+Rainlang is an onchain smart contract language for any EVM, designed to be much easier to read and write.
 
 Rainlang is:
 - parsed onchain (by a smart contract)
