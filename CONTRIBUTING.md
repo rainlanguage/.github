@@ -40,17 +40,3 @@ This is exciting for what it enables, but also implies high risks in the face of
 ### Code without tests
 If there is a valid reason to submit a pull request without accompanying tests, you must demonstrate this somehow. For example, this could be linking to the lines of code where testing is already happening. If code is submitted without tests and without explanation, it won't be reviewed.
 
-
-
-
-
-
-<!-- 
-
-## New features
-
-When we tackle larger tasks we produce design documents and/or specifications that outline key constraints, problems to solve and discussions of potential solutions in that context.
-
-The response to a design document won't always be  
-- You need to think and work in a way that focusses on diagnosing and addressing problems as an engineer, explaining why you are making the decisions and tradeoffs that you are so that other people can engage with you at this level.
- -->
