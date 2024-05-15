@@ -30,7 +30,7 @@ Otherwise, there are some basic guidelines for PR submission.
 
 ### Chaining PRs
 
-Sometimes you made need to "chain" PRs, meaning each merges into the next vs merging directly into main.
+Sometimes you may need to "chain" PRs, meaning each merges into the next vs merging directly into main.
 
 There's two reasons you may decide to chain your PRs:
 - Your changes are spread across multiple repos and one is a dependency of the other
