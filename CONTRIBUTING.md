@@ -28,6 +28,16 @@ Otherwise, there are some basic guidelines for PR submission.
 - **Link Issues:** Reference any relevant issues or other pull requests.
 - **Tests**: See next section.
 
+### Chaining PRs
+
+Sometimes you made need to "chain" PRs, meaning each merges into the next vs merging directly into main.
+
+There's two reasons you may decide to chain your PRs:
+- Your changes are spread across multiple repos and one is a dependency of the other
+- The task at hand is too large for a single PR and needs to be split into parts
+
+If neither of these are the case, please do not chain your PRs, as it potentially makes it harder to merge the most important work first.
+
 ### Testing and Quality Assurance
 
 We are building open source financial software that operates in a highly adversarial environment. It handles real money onchain, is permissionless and we have no admin keys or control over code running in production.
