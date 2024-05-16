@@ -36,7 +36,11 @@ There's two reasons you may decide to chain your PRs:
 - Your changes are spread across multiple repos and one is a dependency of the other
 - The task at hand is too large for a single PR and needs to be split into parts
 
-If neither of these are the case, please do not chain your PRs, as it potentially makes it harder to merge the most important work first.
+If neither of these are the case, please do not chain your PRs, as it:
+
+- introduces artificial dependencies, making it harder to manage/merge priorities
+- is error prone if the base branch is not manually updated along the chain each merge
+- can make it more difficult to understand each PR if the review structure implies logical complection where none exists
 
 ### Testing and Quality Assurance
 
