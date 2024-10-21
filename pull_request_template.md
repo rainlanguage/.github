@@ -21,3 +21,4 @@ By submitting this for review, I'm confirming I've done the following:
 - [ ] made this PR as small as possible
 - [ ] unit-tested any new functionality
 - [ ] linked any relevant issues or PRs
+- [ ] included screenshots (if this involves a front-end change)
